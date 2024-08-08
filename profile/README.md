@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://munio.cloud/" target="blank"><img src="docs/munio-logo.svg" width="200" alt="Munio Logo" /></a>
+  <a href="http://munio.cloud/" target="blank"><img src="../docs/munio-logo.svg" width="200" alt="Munio Logo" /></a>
 </p>
 
 <p align="center">a virtual assistant that helps users improve their conversation skills through voice practice sessions</p>
