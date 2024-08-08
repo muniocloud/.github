@@ -34,5 +34,5 @@ To improve user experience, we use Websockets (Socket.io) for a more natural rea
 
 ## Stay in touch
 
-- Author - [Gabriel Sena](https://gabrielsena.dev)
+- Author - [Gabriel Sena](https://github.com/gabrielsenadev)
 - Website - [https://munio.cloud](https://munio.cloud/)
