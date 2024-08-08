@@ -31,3 +31,8 @@ In this mode, users will have a realistic dialogue with an AI (using Text to Spe
 - Conversation overall feedback using Gemini AI.
 
 To improve user experience, we use Websockets (Socket.io) for a more natural real-time interaction.
+
+## Stay in touch
+
+- Author - [Gabriel Sena](https://gabrielsena.dev)
+- Website - [https://munio.cloud](https://munio.cloud/)
