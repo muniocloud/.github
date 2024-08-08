@@ -4,6 +4,7 @@
 
 <p align="center">a virtual assistant that helps users improve their conversation skills through voice practice sessions</p>
 <p align="center"><a href="https://github.com/muniocloud/web-server" target="blank">web-server</a> <a href="https://github.com/muniocloud/web-client" target="blank">web-client</a></p>
+
 ## Description
 
 Munio is a virtual assistant that functions as an English teacher to help users enhance their conversational skills through voice practice sessions. The application's main dependency is Generative AI, which it uses for audio analysis, generating phrases, and providing feedback. In this project, we utilize Gemini AI to fulfill these requirements.
